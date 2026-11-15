@@ -1,10 +1,10 @@
-// MUMMY'S KITCHEN - obey only when Mummy says. Or face the chappal.
+// HIMANSHU'S KITCHEN - obey only when Himanshu says. Or face the chappal.
 export default {
   id: 'kitchen',
-  gameTitle: "Mummy's Kitchen",
-  tagline: 'Do it only when Mummy says. Otherwise... chappal incoming 🩴',
+  gameTitle: "Himanshu's Kitchen",
+  tagline: 'Do it only when Himanshu says. Otherwise... chappal incoming 🩴',
   logoEmoji: '🍳',
-  commander: 'Mummy says',
+  commander: 'Himanshu says',
   verbs: { click: 'grab', double: 'double-grab', hold: 'stir' },
   pads: {
     red: { label: 'MIRCHI', emoji: '🌶️', color: '#e63946', tone: 349.23 },
@@ -31,16 +31,16 @@ export default {
     Rookie: { name: 'Kitchen Helper', emoji: '🧽' },
     Sharp: { name: 'Tadka Expert', emoji: '🔥' },
     Lightning: { name: 'Masterchef', emoji: '👨‍🍳' },
-    'Reflex God': { name: "Mummy's Favourite", emoji: '🥇' },
+    'Reflex God': { name: "Himanshu's Favourite", emoji: '🥇' },
   },
   messages: {
-    ok: ['Shabash! 👏', 'Perfect masala!', 'Good child 😇', 'Mummy is proud!'],
-    trapDodged: ['Smart! Mummy never said 😏', 'Not fooled, beta!'],
-    trap: ['Mummy did NOT say! 🩴', 'Who told you to touch it?! 😤'],
+    ok: ['Shabash! 👏', 'Perfect masala!', 'Good child 😇', 'Himanshu is proud!'],
+    trapDodged: ['Smart! Himanshu never said 😏', 'Not fooled, beta!'],
+    trap: ['Himanshu did NOT say! 🩴', 'Who told you to touch it?! 😤'],
     wrong_color: ['Arre, the OTHER one!', 'Wrong dabba! 🫙'],
     wrong_action: ['Listen properly! 👂'],
-    timeout: ['Mummy is waiting... 😤', 'Food is getting cold! 🥶'],
-    invalid_timing: ['Faster than Mummy? Impossible 🤨'],
+    timeout: ['Himanshu is waiting... 😤', 'Food is getting cold! 🥶'],
+    invalid_timing: ['Faster than Himanshu? Impossible 🤨'],
   },
   celebrationEmoji: ['🍛', '🥭', '☕', '🎉'],
 };
