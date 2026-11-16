@@ -1,10 +1,10 @@
-// HIMANSHU'S KITCHEN - obey only when Himanshu says. Or face the chappal.
+// HIMANSHU'S KITCHEN - obey only when Himanshu orders. Or face the chappal.
 export default {
   id: 'kitchen',
-  gameTitle: "Himanshu's Kitchen",
-  tagline: 'Do it only when Himanshu says. Otherwise... chappal incoming 🩴',
+  gameTitle: " Test your chef reflexes in Himanshu's Royal Kitchen",
+  tagline: 'Do it only when Himanshu orders. Otherwise... chappal incoming 🩴',
   logoEmoji: '🍳',
-  commander: 'Himanshu says',
+  commander: 'Himanshu orders',
   verbs: { click: 'grab', double: 'double-grab', hold: 'stir' },
   pads: {
     red: { label: 'MIRCHI', emoji: '🌶️', color: '#e63946', tone: 349.23 },
