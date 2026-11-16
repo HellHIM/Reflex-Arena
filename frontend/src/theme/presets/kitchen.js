@@ -13,7 +13,7 @@ export default {
     yellow: { label: 'MANGO', emoji: '🥭', color: '#f4a261', tone: 587.33 },
   },
   colors: {
-    background: '#2b1a12',
+    background: '#0F172A',
     backgroundAccent: '#7a3b1d',
     surface: 'rgba(255, 236, 210, 0.08)',
     text: '#fff4e6',
