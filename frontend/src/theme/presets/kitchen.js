@@ -1,7 +1,7 @@
 // HIMANSHU'S KITCHEN - obey only when Himanshu orders. Or face the chappal.
 export default {
   id: 'kitchen',
-  gameTitle: " Test your chef reflexes in Himanshu's Royal Kitchen",
+  gameTitle: "Himanshu's Royal Kitchen",
   tagline: 'Do it only when Himanshu orders. Otherwise... chappal incoming 🩴',
   logoEmoji: '🍳',
   commander: 'Himanshu orders',
@@ -23,8 +23,8 @@ export default {
     good: '#80ed99',
     bad: '#ff5d5d',
   },
-  fontsUrl: 'https://fonts.googleapis.com/css2?family=Baloo+2:wght@500;700;800&display=swap',
-  fonts: { display: "'Baloo 2', system-ui, sans-serif", body: "'Baloo 2', system-ui, sans-serif" },
+     fontsUrl: 'https://googleapis.com',
+  fonts: { display: "'Cinzel', serif", body: "'Poppins', sans-serif" },
   lifeIcon: '🫓',
   lostLifeIcon: '🩴',
   ranks: {
